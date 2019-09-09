@@ -1,0 +1,62 @@
+	TASK 1 (condition number and inverse matrix)
+min condition number: 4.576081967886611
+max condition number: 4.864021319214374
+average condition number: 4.705462758589952
+average time to find inverse matrix: 4.5030412769317625
+
+
+	TASK 2 (Gauss)
+min Gauss max-norm: 5.329070518200751e-15
+max Gauss max-norm: 1.4210854715202004e-14
+average Gauss max-norm: 8.273381979506666e-15
+average time to solve by Gauss: 2.808618974685669
+
+
+	TASK 3 (LUP)
+min LUP max-norm: 5.329070518200751e-15
+max LUP max-norm: 1.1546319456101628e-14
+average LUP max-norm: 7.429612480791548e-15
+average time to build LUP: 1.0939704632759095
+average time to solve by LUP: 0.007917895317077636
+
+
+	TASK 4 (Cholesky)
+min Cholesky max-norm: 3.552713678800501e-15
+max Cholesky max-norm: 1.1546319456101628e-14
+average Cholesky max-norm: 5.6799009939823005e-15
+average time to solve by Cholesky: 0.5012566041946411
+
+
+	TASK 5 (Relaxation)
+min relaxation max-norm: 1.6564527527407336e-13
+max relaxation max-norm: 3.637090628672013e-13
+average relaxation max-norm: 2.25096200359709e-13
+average time to solve by relaxation: 0.4440618896484375
+
+
+	TASK 6 (QR)
+min QR max-norm: 1.4876988529977098e-14
+max QR max-norm: 1.0165202013467933e-12
+average QR max-norm: 3.947246175750596e-14
+average time to solve by QR: 1.7997712469100953
+
+
+	TASK 7 (Least squares)
+min least squares euclidean-norm: 10404.068217883196
+max least squares euclidean-norm: 12503.941892566523
+average least squares euclidean-norm: 11512.422471559463
+average time to solve by least squares: 1.2543492770195008
+
+
+	TASK 8 (GMRES)
+min GMRES max-norm: 1.3750266880663276e-06
+max GMRES max-norm: 6.91393487928238e-06
+average GMRES max-norm: 2.8127148617038134e-06
+average time to solve by GMRES: 0.10288007974624634
+
+
+	TASK 9 (GMRES Arnoldi)
+min GMRES Arnoldi max-norm: 6.217248937900877e-15
+max GMRES Arnoldi max-norm: 5.1958437552457326e-14
+average GMRES Arnoldi max-norm: 1.638548671745177e-14
+average time to solve by GMRES Arnoldi: 0.14377490282058716

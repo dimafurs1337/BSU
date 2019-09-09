@@ -1,0 +1,31 @@
+    TASK 1 (Power iteration)
+power iteration euclidean-norm l1: 8.149003440634096e-15
+power iteration euclidean-norm l2: 8.011234740023206e-15
+power iteration average time: 0.01199960708618164
+    
+    TASK 2 (QR-algorithm)
+qr-algorithm average time: 0.08291848659515381
+
+    TASK 3 (Bisection)
+bisection interval x1: (-1.9519531250000002, -1.9518554687500003)
+bisection number of iterations x1: 12
+bisection interval x2: (-1.13583984375, -1.1357421874999998)
+bisection number of iterations x2: 12
+bisection interval x3: (1.9518554687500003, 1.9519531250000002)
+bisection number of iterations x3: 12
+
+    TASK 4 (Discrete Newton's method)
+discrete Newton's method x1: -1.9519125752999187
+discrete Newton's method number of iterations x1: 3
+discrete Newton's method x2: -1.135756704469539
+discrete Newton's method number of iterations x2: 2
+discrete Newton's method x3: 1.9519145740760813
+discrete Newton's method number of iterations x3: 3
+
+    TASK 5 (Newton's method)
+Newton's method x1: -1.9519125752999191
+Newton's method number of iterations x1: 1
+Newton's method x2: -1.1357567044695389
+Newton's method number of iterations x2: 1
+Newton's method x3: 1.9519145740760815
+Newton's method number of iterations x3: 1
