@@ -5,4 +5,4 @@ University labs
 
 [Calculation methods](https://github.com/dimafurs1337/bsu/tree/master/calculation%20methods) - [`Python`](https://github.com/dimafurs1337/bsu/search?l=python)
 
-[Mathematical modeling](https://github.com/dimafurs1337/bsu/tree/master/mathematical%20modeling) - [`Python`](https://github.com/dimafurs1337/bsu/search?l=python)
+[Mathematical modeling](https://github.com/dimafurs1337/bsu/tree/master/mathematical%20modeling) - [`Python`](https://github.com/dimafurs1337/bsu/search?l=python), [`C++`](https://github.com/dimafurs1337/bsu/search?l=C%2B%2B)
